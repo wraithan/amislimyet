@@ -1,0 +1,24 @@
+{
+  "name": "amislimyet",
+  "version": "0.0.0",
+  "description": "weight related stats tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wraithan/amislimyet.git"
+  },
+  "keywords": [
+    "fat",
+    "weight",
+    "graph"
+  ],
+  "author": "Wraithan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wraithan/amislimyet/issues"
+  },
+  "homepage": "https://github.com/wraithan/amislimyet"
+}
